@@ -8,7 +8,7 @@
       "sourceMap": true,
       "outDir": "dist",
       "composite": true,
-      "types": ["jest", "mocha"]
+      "types": ["node"]
     },
     "lib": ["es2015"],
   }
