@@ -5,7 +5,7 @@
         "lib": ["dom", "es6", "es2015.promise"],
         "esModuleInterop": true,
         "moduleResolution": "node",
-        "types": ["jest", "mocha"]
+        "types": ["node"]
     },
     "references": [
         { "path": "server" }
