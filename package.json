@@ -24,7 +24,7 @@
     "popper.js": "^1.16.1",
     "qs": "^6.9.4",
     "three": "^0.133.0"
-  }
+  },
   
   "scripts": {
     "start": "node dist/index.js"
